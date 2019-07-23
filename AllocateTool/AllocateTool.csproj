@@ -121,7 +121,6 @@
     <Compile Include="ui\MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="utils\CSVUtils.cs" />
     <Compile Include="utils\ExcelHelper.cs" />
     <Compile Include="utils\OLDBHelper.cs" />
     <Compile Include="utils\EntityUtils.cs" />
